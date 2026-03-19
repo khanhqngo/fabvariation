@@ -1,0 +1,18 @@
+# Streamlit configuration for FabVariation
+# Dark theme with custom colors
+
+[theme]
+base = "dark"
+primaryColor = "#00CC66"
+backgroundColor = "#0E1117"
+secondaryBackgroundColor = "#1E2127"
+textColor = "#FFFFFF"
+font = "sans serif"
+
+[server]
+headless = true
+enableCORS = false
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
