@@ -288,7 +288,7 @@ For questions or issues:
 
 ## Authors
 
-Built by an elite Streamlit senior engineer with 12+ years of experience in industrial web dashboards for semiconductor and manufacturing companies.
+Built by a data scientist who loves to pursue interests in industrial web dashboards for semiconductor and manufacturing companies.
 
 ---
 
